@@ -16,5 +16,28 @@
       "providerPlugin": "awscloudformation",
       "service": "Lambda"
     }
+  },
+  "parameters": {
+    "AMPLIFY_function_ecommerceapp1f6c24d1PostConfirmation_GROUP": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ecommerceapp1f6c24d1PostConfirmation"
+        }
+      ]
+    },
+    "AMPLIFY_function_ecommerceapp8e1a5124PostConfirmation_GROUP": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "ecommerceapp8e1a5124PostConfirmation"
+        }
+      ]
+    }
+  },
+  "storage": {
+    "producttable": {
+      "providerPlugin": "awscloudformation",
+    }
   }
 }
