@@ -18,7 +18,11 @@
         },
         "ecommerceapp1f6c24d1PostConfirmation": {
           "GROUP": "Admin"
-        }
+        },
+        "ecommercefunction": {}
+      },
+      "auth": {
+        "ecommerceapp": {}
       }
     }
   }
